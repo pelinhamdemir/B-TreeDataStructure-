@@ -1,0 +1,1 @@
+This system presents the design and implementation of a B-tree data structure for managing a collection of Employee records. The B-tree is designed to efficiently handle a large number of Employee records and provide fast access to essential operations such as insertion, deletion, search, and listing of records within specified ranges.
